@@ -24,11 +24,8 @@ General documentation:
 * [Datastore How-To Guides](https://cloud.google.com/spanner/docs/how-to)
 * [Pricing](https://cloud.google.com/spanner/pricing)
 
-Operations:
-* 
-
 Books on understanding NewSQL:
-* 
+* [Next Generation Databases: NoSQLand Big Data (Apress, 2015)](https://www.amazon.com/Next-Generation-Databases-NoSQLand-Data/dp/1484213300)
 
 ## SDK 
 ```sh
