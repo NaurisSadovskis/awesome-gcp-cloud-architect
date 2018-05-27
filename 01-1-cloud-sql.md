@@ -1,15 +1,13 @@
-# 01-1 - Cloud SQL
+# 1.1 - Cloud SQL
 
 Cloud SQL is Google's fully-managed database service. 
 
 This page focuses primarily on Cloud SQL MySQL offering. Documentation for other supported engine offerings can be found in Cloud SQL [docs](https://cloud.google.com/sql/docs/).
 
 ## Timeline
-
 * February 2014 - [Google Cloud SQL now Generally Available with an SLA](https://cloudplatform.googleblog.com/2014/02/google-cloud-sql-now-generally-available.html)
 * August 2016 - [Cloud SQL Second Generation performance and feature deep dive](https://cloudplatform.googleblog.com/2016/08/Cloud-SQL-Second-Generation-performance-and-feature-deep-dive.html)
 * April 2018 - [Cloud SQL for PostgreSQL now generally available](https://cloudplatform.googleblog.com/2018/04/Cloud-SQL-for-PostgreSQL-now-generally-available-and-ready-for-your-production-workloads.html)
-
 
 ## Resources
 NEXT videos (YouTube):
@@ -17,7 +15,6 @@ NEXT videos (YouTube):
 * [Optimize Cloud SQL performance and availability](https://www.youtube.com/watch?v=rN99XFcAbyo)
 
 General documentation: 
-
 * [**Cloud SQL for MySQL Documentation**](https://cloud.google.com/sql/docs/mysql/)
 * [Release Notes](https://cloud.google.com/sql/docs/release-notes)
 * [FAQ](https://cloud.google.com/sql/faq)
@@ -49,9 +46,7 @@ Usage: gcloud sql [optional flags] <group | command>
 
 SDK reference docs can be found [here](https://cloud.google.com/sdk/gcloud/reference/sql/). 
 
-
 ## Summary
-
 Structure: 10
 
 Query complexity: 9.5
@@ -60,7 +55,7 @@ Durability: 9.5
 
 Speed: 5
 
-Throughput 3
+Throughput: 3
 
 Cost: 3
 

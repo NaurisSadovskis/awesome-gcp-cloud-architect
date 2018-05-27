@@ -1,4 +1,4 @@
-# 01-1 - Cloud Datastore
+# 1.2 - Cloud Datastore
 
 Cloud Datastore is a highly-scalable NoSQL database.
 
@@ -12,14 +12,12 @@ Cloud Datastore is a highly-scalable NoSQL database.
 * May 2013 - [Get started with Google Cloud Datastore - a fast, powerful, NoSQL database](https://cloudplatform.googleblog.com/2013/05/get-started-with-google-cloud-datastore-nosql-database.html)
 * February 2018 - [Fully managed export and import with Cloud Datastore now generally available](https://cloudplatform.googleblog.com/2018/02/fully-managed-export-and-import-with-Cloud-Datastore-now-generally-available.html)
 
-
 ## Resources
 NEXT videos (YouTube):
 * [Cloud Datastore 101: Overview of Google's scalable NoSQL document database](https://www.youtube.com/watch?v=uZDk0NZGqHs)
 * [Building scalable apps with Cloud Datastore](https://www.youtube.com/watch?v=0EIqacNVuAo)
 
 General documentation: 
-
 * [**Cloud Datastore Documentation**](https://cloud.google.com/datastore/docs/)
 * [Concepts](https://cloud.google.com/datastore/docs/concepts)
 * [Release Notes](https://cloud.google.com/datastore/release-notes)
@@ -42,11 +40,9 @@ Usage: gcloud datastore [optional flags] <command>
   command may be         cleanup-indexes | create-indexes
 ```
 
-SDK reference docs can be found [here](https://cloud.google.com/sdk/gcloud/reference/datastore/). 
-
+SDK reference docs can be found [here](https://cloud.google.com/sdk/gcloud/reference/datastore/. 
 
 ## Summary
-
 Structure: 5
 
 Query complexity: 5
@@ -55,6 +51,6 @@ Durability: 10
 
 Speed: 4.5
 
-Throughput 10
+Throughput: 10
 
 Cost: 7
