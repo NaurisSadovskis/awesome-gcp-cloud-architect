@@ -2,9 +2,6 @@
 
 Cloud Spanner is Google's horizontally scalable, strongly consistent, relational database service.
 
-## Introduction
-### Design specifics
-
 ## Timeline
 * February 2017 - [Introducing Cloud Spanner: a global database service for mission-critical applications](https://cloudplatform.googleblog.com/2017/02/introducing-Cloud-Spanner-a-global-database-service-for-mission-critical-applications.html) - Public Beta announcement
 * November 2017 - [With Multi-Region support in Cloud Spanner, have your cake and eat it too](https://cloudplatform.googleblog.com/2017/11/with-Multi-Region-support-in-Cloud-Spanner-have-your-cake-and-eat-it-too.html) - GA announcement
@@ -21,7 +18,7 @@ General documentation:
 * [Whitepaper: Spanner: Google's Globally-Distributed Database](https://ai.google/research/pubs/pub39966)
 * [Concepts](https://cloud.google.com/spanner/docs/concepts)
 * [Release Notes](https://cloud.google.com/spanner/docs/release-notes)
-* [Datastore How-To Guides](https://cloud.google.com/spanner/docs/how-to)
+* [How-To Guides](https://cloud.google.com/spanner/docs/how-to)
 * [Pricing](https://cloud.google.com/spanner/pricing)
 
 Books on understanding NewSQL:
