@@ -12,4 +12,5 @@ Resources used:
 
 0. [Platform Overview](00-gcp-overview.md)
 1. Storage
-* 1.1 [Cloud SQL](01-cloudsql.md)
+* 1.1 [Cloud SQL](01-1-cloud-sql.md)
+* 1.2 [Cloud Datastore](01-2-cloud-datastore.md)
