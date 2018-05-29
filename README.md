@@ -6,6 +6,7 @@ Resources used:
 * [Official Google Cloud Platform documentation](https://cloud.google.com/docs/)
 * [Official Google Cloud Platform blog](https://cloudplatform.googleblog.com/)
 * [NEXT conference videos](https://www.youtube.com/watch?v=j_K1YoMHpbk&list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR)
+* [This week in GCP (medium.com)](https://medium.com/google-cloud/weekly/home)
 * [Google Cloud Platform in Action by John Geewax](https://www.manning.com/books/google-cloud-platform-in-action)
 
 ## TOC
@@ -19,3 +20,5 @@ Storage:
 1.2 [Cloud Datastore](01-2-cloud-datastore.md)
 
 1.3 [Cloud Spanner](01-3-cloud-spanner.md)
+
+1.4 [Cloud Bigtable](01-4-cloud-bigtable.md)
