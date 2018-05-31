@@ -22,3 +22,5 @@ Storage:
 1.3 [Cloud Spanner](01-3-cloud-spanner.md)
 
 1.4 [Cloud Bigtable](01-4-cloud-bigtable.md)
+
+1.5 [Cloud Storage](01-5-cloud-storage.md)
