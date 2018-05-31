@@ -3,8 +3,8 @@
 Cloud Storage is Google's object store.
 
 ## Timeline
-* xxx 2015 - []()
-* xxx 2016 - []()
+* July 2013 - [New in Google Cloud Storage: auto-delete, regional buckets and faster uploads](https://cloudplatform.googleblog.com/2013/07/new-in-google-cloud-storage-auto-delete.html)
+* February 2018 - [How Google Cloud Storage offers strongly consistent object listing thanks to Spanner](https://cloudplatform.googleblog.com/2018/02/how-Google-Cloud-Storage-offers-strongly-consistent-object-listing-thanks-to-Spanner.html)
 
 ## Resources
 NEXT videos (YouTube):
