@@ -13,7 +13,7 @@ Resources used:
 
 [Platform Overview](00-gcp-overview.md)
 
-Storage:
+**Storage**:
 
 1.1 [Cloud SQL](01-1-cloud-sql.md)
 
@@ -24,3 +24,7 @@ Storage:
 1.4 [Cloud Bigtable](01-4-cloud-bigtable.md)
 
 1.5 [Cloud Storage](01-5-cloud-storage.md)
+
+**Compute**:
+
+2.1 [Compute Engine](02-1-compute-engine.md)
