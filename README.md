@@ -2,7 +2,7 @@
 
 This repository has been created to help people prepare for [GCP Cloud Architect certification](https://cloud.google.com/certification/cloud-architect). 
 
-Resources used: 
+Resources: 
 * [Official Google Cloud Platform documentation](https://cloud.google.com/docs/)
 * [Official Google Cloud Platform blog](https://cloudplatform.googleblog.com/)
 * [NEXT conference videos](https://www.youtube.com/watch?v=j_K1YoMHpbk&list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR)
