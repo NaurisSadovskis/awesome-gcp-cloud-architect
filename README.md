@@ -8,6 +8,7 @@ Resources:
 * [NEXT conference videos](https://www.youtube.com/watch?v=j_K1YoMHpbk&list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR)
 * [This week in GCP (medium.com)](https://medium.com/google-cloud/weekly/home)
 * [GCP Podcast](https://www.gcppodcast.com/)
+* [Google Cloud Codelabs and Challenges](https://codelabs.developers.google.com/cloud)
 * [Google Cloud Platform in Action by John Geewax](https://www.manning.com/books/google-cloud-platform-in-action)
 
 ## TOC
